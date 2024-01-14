@@ -2,7 +2,7 @@
 
 This code simulates the unsteady flow past a moving body, e.g. a pitching-plungig elliptic foil or an oscillating cylinder cylinder, with prescribed kinematics.
 
-Use the make file for compilation. Enter make in the terminal to compile the source codes finally generating run_executable.out. Next, take hint from the jobscripts provided to run the executable on a cluster or a local system.
+Use the make file for compilation. Enter make in the terminal to compile the source codes finally generating run_executable.out. Next, take hint from the jobscripts (openmp.cmd or openmpscript.sh) provided to run the executable on a cluster or a local system.
 
 ## Citation
 
